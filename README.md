@@ -50,8 +50,9 @@ This theme was orginally created by Discord Addons
   <summary>VenCord</summary>
 
    ### Installing
-1. Copy `[https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css]`
-   - Paste it in themes
+1. Go to the link `[https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css]`
+ Press CTRL + S , Save the File  
+ - Paste it in themes ( Localicated in [%appdata%\BetterDiscord\themes] )
   ### Customization
 1. Copy everything in `[https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css]`
    - Open Vencord settings
