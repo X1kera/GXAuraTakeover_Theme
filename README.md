@@ -50,11 +50,11 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
   <summary>VenCord</summary>
 
    ### Installing
-1. Go to the link [Click Here](https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css)
+1. Go to the link [Click Here](https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ)
  Press CTRL + S , Save the File  
  - Paste it in themes ( Localicated in [%appdata%\BetterDiscord\themes] )
   ### Customization
-1. Copy everything in [Click Here](https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css)
+1. Copy everything in [Click Here](https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ)
    - Open Vencord settings
      - Click `Open QuickCSS File`
        - Paste everything in the window
