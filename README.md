@@ -1,6 +1,7 @@
 GXAuraTakeover_Theme
 
-GXAuraTakeover was made for people who loved to see Opera GX Themes Come to live on Discord Client
+
+GXAuraTakeover was made for people who love to see Opera GX Themes Come to live on Discord Client
 
 
 >> Originaly My Idea came from Hank 
