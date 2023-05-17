@@ -1,15 +1,15 @@
 GXAuraTakeover_Theme
 
 
+
 GXAuraTakeover was made for people who love to see Opera GX Themes Come to live on Discord Client
 
 
- Originaly My Idea came from Hank 
-{ L-Ratio }
-(https://github.com/l-ratio)
 
+>OperaGX Theme Original Onwer - Hank [L-Ratio](https://github.com/L-Ratio)
+>>[OperaGX Theme Link](https://github.com/L-Ratio/OperaGXTheme)
+>>>This theme was orginally created by Discord Addons
 
-This theme was orginally created by Discord Addons
 
 
 ## Table of Contents
@@ -29,7 +29,7 @@ This theme was orginally created by Discord Addons
   <summary>Better Discord</summary>
 
    ### Installing
-1. Download the [theme](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/release/OperaGX.theme.css)
+1. Download the [theme](blob:https://github.com/322ce78c-c4ba-4bcb-aeae-9a71f390cfea)
    - Extract the `theme.css` to your BD theme folder
      -  Enable it in settings
 ### Customization
