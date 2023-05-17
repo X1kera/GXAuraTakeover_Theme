@@ -1,7 +1,7 @@
 :root {
   --border-color-accent-1: 1px solid rgba(var(--accent-color-1),var(--border-brightness));
   /* Common Backgrounds */
-  --opera-gx-bg-1: url();
+  --opera-gx-bg-1: url(https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/main%20Back/Main.png);
 }
 
 .theme-light,
