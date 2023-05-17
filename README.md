@@ -1,0 +1,66 @@
+#GXAuraTakeover_Theme
+
+
+GXAuraTakeover was made for people who loved to see Opera GX Themes Come to live on Discord Client
+
+
+>> Originaly My Idea came from Hank [L-Ratio]
+>> This theme was orginally created by Discord Addons
+
+## Table of Contents
+  - [Installation](#installation)
+  - [Customizing Theme](#customizing-theme)
+  - [Contributing](#contributing)
+
+## Installation
+
+<div style=”text-align:center;” align="center">
+<h5 align="left">
+
+   <img src="https://cdn.discordapp.com/icons/86004744966914048/babd1af3fa6011a50e418a80f4970ceb.webp?size=96" width="75" height="75"/>
+
+</h5>
+</div>
+<details>
+  <summary>Better Discord</summary>
+
+   ### Installing
+1. Download the [theme](https://raw.githubusercontent.com/L-Ratio/OperaGXTheme/main/release/OperaGX.theme.css)
+   - Extract the `theme.css` to your BD theme folder
+     -  Enable it in settings
+### Customization
+2. Open Settings
+   - Search for `OperaGX`
+     - Open the file
+         - Edit the given values to change how the theme looks
+</details>
+
+<div style=”text-align:center;” align="center">
+<h3 align="left">
+
+<img src="https://avatars.githubusercontent.com/u/113042587?s=200&v=4" width="75" height="75"/>
+
+</h3>
+</div>
+<details>
+  <summary>VenCord</summary>
+
+   ### Installing
+1. Copy `[https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css]`
+   - Paste it in themes
+  ### Customization
+1. Copy everything in `[https://github.com/X1kera/GXAuraTakeover_Theme/blob/main/release/theme.css]`
+   - Open Vencord settings
+     - Click `Open QuickCSS File`
+       - Paste everything in the window
+         - Customize everything you'd like to
+  
+</details>
+
+## Customizing Theme
+
+   To customize the theme please refer to the `theme.css` file
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
