@@ -1,16 +1,16 @@
-#GXAuraTakeover_Theme
-
+GXAuraTakeover_Theme
 
 GXAuraTakeover was made for people who loved to see Opera GX Themes Come to live on Discord Client
 
 
->> Originaly My Idea came from Hank [L-Ratio]
+>> Originaly My Idea came from Hank 
+{ L-Ratio }
+(https://github.com/l-ratio)
 >> This theme was orginally created by Discord Addons
 
 ## Table of Contents
   - [Installation](#installation)
   - [Customizing Theme](#customizing-theme)
-  - [Contributing](#contributing)
 
 ## Installation
 
@@ -61,6 +61,3 @@ GXAuraTakeover was made for people who loved to see Opera GX Themes Come to live
 
    To customize the theme please refer to the `theme.css` file
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
