@@ -29,7 +29,7 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
   <summary>Better Discord</summary>
 
    ### Installing
-1. Download the [theme](blob:https://github.com/322ce78c-c4ba-4bcb-aeae-9a71f390cfea)
+1. Download the [theme](https://github.com/322ce78c-c4ba-4bcb-aeae-9a71f390cfea)
    - Extract the `theme.css` to your BD theme folder
      -  Enable it in settings
 ### Customization
