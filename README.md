@@ -46,10 +46,10 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
   <summary>VenCord</summary>
 
    ### Installing
-1. Copy This Link { https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css }
+1. Copy This Link  https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css 
  - Paste it in themes
   ### Customization
-1. Copy This Link { https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ }
+1. Copy This Link  https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ 
    - Open Vencord settings
      - Click `Open QuickCSS File`
        - Paste everything in the window
