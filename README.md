@@ -12,10 +12,6 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
 
 
 
-## Table of Contents
-  - [Installation](#installation)
-  - [Customizing Theme](#customizing-theme)
-
 ## Installation
 
 <div style=”text-align:center;” align="center">
@@ -49,19 +45,15 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
 <details>
   <summary>VenCord</summary>
 
-   ### Installing)
-1. Go to the link [Click Here](https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css)
+   ### Installing
+1. Copy This Link { https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css }
  - Paste it in themes
   ### Customization
-1. Copy everything in [Click Here](https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ)
+1. Copy This Link { https://raw.githubusercontent.com/X1kera/GXAuraTakeover_Theme/main/release/Aura%20Takeover.theme.css?token=GHSAT0AAAAAACCY7ATVVISJ6SY7FPGTPIWSZDFM2JQ }
    - Open Vencord settings
      - Click `Open QuickCSS File`
        - Paste everything in the window
          - Customize everything you'd like to
   
 </details>
-
-## Customizing Theme
-
-   To customize the theme please refer to the `theme.css` file
 
