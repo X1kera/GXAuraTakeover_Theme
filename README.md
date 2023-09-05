@@ -10,7 +10,9 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
 >>[OperaGX Theme Link](https://github.com/L-Ratio/OperaGXTheme)
 >>>This theme was orginally created by Discord Addons
 
-
+## Table of Contents
+  - [Installation](##installation)
+  - [Previews](##previews)
 
 ## Installation
 
@@ -57,3 +59,9 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
   
 </details>
 
+## Previews
+
+ The images can be out of date someday
+![image](https://i.imgur.com/NEZqfsS.png)
+![image](https://i.imgur.com/MIBtCgR.png)
+![image](https://i.imgur.com/jwfhzbm.png)
