@@ -30,7 +30,7 @@ GXAuraTakeover was made for people who love to see Opera GX Themes Come to live 
      -  Enable it in settings
 ### Customization
 2. Open Settings
-   - Search for `OperaGX`
+   - Search for `Aura Takeover`
      - Open the file
          - Edit the given values to change how the theme looks
 </details>
